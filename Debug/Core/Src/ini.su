@@ -1,0 +1,6 @@
+../Core/Src/ini.c:4:6:SystemClock_Config	88	static
+../Core/Src/ini.c:37:6:Error_Handler	4	static,ignoring_inline_asm
+../Core/Src/ini.c:47:6:GPIO_Init	16	static
+../Core/Src/ini.c:53:5:__io_putchar	16	static
+../Core/Src/ini.c:58:6:myPrintf	24	static
+../Core/Src/ini.c:65:6:init_uart	16	static
